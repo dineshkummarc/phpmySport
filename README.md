@@ -1,1 +1,2 @@
-# Sport-club-management
+# phpmySport
+formerly Sport-club-management
